@@ -1,0 +1,96 @@
+.article-nav-father span{
+    display: block;
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 10px;
+    background: url(../img/img-pub.png) no-repeat center;
+}
+.article-nav-father span.aqld{
+    background-position: -158px -22px;
+}
+.article-nav-father span.aqgg{
+    background-position: -158px -59px;
+}
+
+.article-nav-father span.wxyj{
+    background-position: -158px -99px;
+}
+
+.article-nav-father span.gyaq {
+    background-position: -37px -134px;
+}
+.article-nav-father span.wlwaq{
+    background-position: -158px -138px;
+}
+
+.article-nav-father:hover span.aqld{
+    background-position: -132px -22px;
+}
+.article-nav-father:hover span.aqgg{
+     background-position: -132px -59px;
+ }
+.article-nav-father:hover span.wxyj{
+    background-position: -132px -99px;
+}
+
+.article-nav-father:hover span.gyaq {
+    background-position:-11px -134px;
+}
+.article-nav-father:hover span.wlwaq{
+    background-position: -132px -138px;
+}
+
+
+.article-nav-father.xz span.aqld{
+    background-position: -132px -22px;
+}
+.article-nav-father.xz span.aqgg{
+    background-position: -132px -59px;
+}
+.article-nav-father.xz span.wxyj{
+    background-position: -132px -99px;
+}
+
+.article-nav-father.xz span.gyaq {
+
+    background-position:-11px -134px;
+
+}
+.article-nav-father.xz span.wlwaq{
+    background-position: -132px -138px;
+}
+
+
+/*服务中心*/
+
+.article-nav-father span.aqfw{
+    background-position: -37px -22px;
+}
+.article-nav-father span.jsfw{
+    background-position: -37px -59px;
+}
+
+.article-nav-father span.pxfw{
+    background-position: -37px -99px;
+}
+
+.article-nav-father:hover span.aqfw{
+    background-position: -11px -22px;
+}
+.article-nav-father:hover span.jsfw{
+    background-position: -11px -59px;
+}
+.article-nav-father:hover span.pxfw{
+    background-position: -11px -99px;
+}
+
+.article-nav-father.xz span.aqfw{
+    background-position: -11px -22px;
+}
+.article-nav-father.xz span.jsfw{
+    background-position: -11px -59px;
+}
+.article-nav-father.xz span.pxfw{
+    background-position: -11px -99px;
+}

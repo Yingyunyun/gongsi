@@ -1,0 +1,22 @@
+body{ background:#f5f5f5}
+.ban-pc{ width:100%; height:500px; position:relative; overflow:hidden; background:url(../image/服务中心.jpg) no-repeat center; font-family:"黑体";}
+
+.jsfw{ width:100%; height:878px;margin:0 auto; position:relative;font-family:"黑体";  overflow:hidden; }
+.jsfw-c{ width:1100px; height:878px; position:relative; overflow:hidden; margin:0 auto;}
+.jsfw-c-h{ width:100%; height:64px;  margin:72px auto 56px auto; overflow:hidden; position:relative; background:url(../img/fwzx/jsfw_h_bg1.png) no-repeat center;}
+.jsfw-c-h h4{ display:block; width:314px; text-align:center;  margin:18px auto; font-size:24px; color:#000; overflow:hidden; position:relative;}
+.jsfw-c-h span{ display:block; width:30px; height:2px; margin:12px auto 0 auto; background:#000; }
+.jsfw-b{ width:1100px; height:606px;position:relative; }
+.jsfw-c-b-l{ width:511px;}
+.jsfw-c-b-r{ width:588px; height:606px; position:relative; overflow:hidden;}
+.jsfw-box-all{ width:246px; overflow:hidden; position:absolute;cursor: pointer; }
+.jsfw-box-all h4{ font-size:18px; line-height:18px; color:#fff;}
+.jsfw-box-all p{ font-size:14px; line-height:24px; color:#fff; margin-top:34px;}
+.jsfw-box-one{ left:30px; top:60px;}
+.jsfw-box-two{ left:325px; top:380px;}
+
+.jsfw-box-one span{ display:block; width:88px; height:26px; text-align:center;background: #03a1e9; margin: 0 auto; margin-top:10px; margin-right:20px;line-height:26px; border:1px solid #fbde07; border-radius:3px; cursor:pointer; color: #fcfdfb; transition:all 0.3s ease;}
+.jsfw-box-one span:hover{ color:#03a1e9; background:#fff;}
+
+.jsfw-box-two span{ display:block; width:88px; height:26px; text-align:center;background: #03a1e9; margin: 0 auto; margin-top:10px; margin-right:20px;line-height:26px; border:1px solid #fbde07; border-radius:3px; cursor:pointer; color: #fcfdfb; transition:all 0.3s ease;}
+.jsfw-box-two span:hover{ color:#03a1e9; background:#fff;}
