@@ -1,0 +1,65 @@
+@charset "utf-8";
+*{ padding:0px; margin:0px;}
+body{ margin:0px; padding:0px; font-size:12px;font-family:"Microsoft YaHei","黑体",' 宋体';color:#999;line-height:24px;position:relative;}
+ul,li,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,ol,form{ margin:0px; padding:0px; border:0; outline:none;}
+ul,li{ list-style:none}
+i, cite, em, var, address, dfn{ font-style:normal;}
+h1,h2,h3,h4,h5,h6,strong, b{ font-weight:normal;}
+img{border:0px; padding:0px; display:inline-block; line-height:0;}
+a{ color:inherit; text-decoration:none}
+a:hover{ color:inherit;text-decoration:none;}
+.clear{ clear:both;font-size:0px; line-height:0px}
+.left{ float:left}
+.right{ float:right}
+.hidden{ overflow:hidden;}
+.auto{width:1100px;margin:0 auto}
+*html{ background-attachment:fixed;}
+/*--nav--*/
+#pc{width:100%; min-width:1100px;position:relative;}
+.nav-pc{ width:100%; height:200px; overflow:hidden; position:absolute; z-index:10; top:0; left:0;}
+.nav-pc-l{ float:left; width:250px; height:100px;background: url("../image/KUINIU-TECHNOLOGY.png")no-repeat center;}
+
+
+.hx-k2 {
+    transform: rotateX(60deg) rotateZ(60deg)
+}
+
+.hx-k3 {
+    transform: rotateX(-60deg) rotateZ(-60deg)
+}
+.nav-pc-r{ float:right; margin:38px 30px 0 0;}
+.nav-pc-r ul{ float:left;}
+.nav-pc-r ul li{display:block;  height:36px; float:left; overflow:hidden; position:relative; margin-right:36px; color:#fff; font-size:14px; border-bottom:2px; solid:none; transition:all 0.3s ease;}
+.nav-pc-r ul li.click{color:#fbde07;border-bottom:2px solid #fbde07; }
+.nav-pc-r ul li:hover{ color:#fbde07; }
+/*---footer---*/
+.footer{ width:100%; overflow:hidden;position:relative; background:#0b1a22;}
+.footer-c{ width:1100px; overflow:hidden; position:relative; margin:0 auto; }
+.footer-c-top{ width:100%; overflow:hidden; position:relative; overflow:hidden; margin:40px 0 10px 0;}
+.footer-c-top dl{ float:left; margin-right:30px;margin-left:30px; overflow:hidden; position:relative;}
+.footer-c-top dl dd{ overflow:hidden; position:relative; margin-bottom:10px;}
+.footer-c-top dl dd h4{ font-size:14px; line-height:14px; text-align:left; color:#fff;  font-weight:normal; margin-bottom:8px;}
+.footer-c-top dl dd b{ width:30px; display:block; background:#fff; height:2px;}
+.footer-c-top dl dt{ font-size:14px; line-height:14px; margin-bottom:12px; color:#4d5357; transition:all 0.3s ease;}
+.footer-c-top dl dt:hover{color:#727679;}
+.footer-c-bottom{ width:100%; overflow:hidden; position:relative; overflow:hidden; padding:22px 0; border-top:1px solid #0b1a22;}
+.footer-c-bottom p{ text-align:center; width:100%; line-height:14px; font-size:14px; color:#4d5357;}
+.footer-c-bottom p b{ color:#353d42; margin-left:30px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

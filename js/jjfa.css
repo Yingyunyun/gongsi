@@ -1,0 +1,19 @@
+body{ background:#f5f5f5;}
+.ban-pc{ width:100%; height:500px; position:relative; overflow:hidden; background:url(../image/解决方案.jpg) no-repeat center; font-family:"黑体";}
+
+.jjfa{ width:1100px; height:700px; margin:50px auto;  position:relative;font-family:"黑体"; overflow:hidden;}
+
+.jjfa-b{ width:1100px; height:700px;position:relative; }
+.jjfa-c{ width:1100px; height:700px; overflow:hidden;}
+.jjfa-box{ width:1100px; height:700px; position:relative; padding:30px 20px 20px 20px;}
+.jjfa-box ul{ width:120%;}
+.jjfa-box ul li{ display:block; width:510px; height:180px; margin:0 40px 40px 0; float:left; }
+.jjfa-box ul li:hover .jjfa-box-c{ margin-top:-10px; box-shadow:0 0 30px rgba(12, 4, 8, 0.14);}
+.jjfa-box-c{ width:100%; height:100%; position:relative; overflow: hidden; background:#fff;transition:all 0.3s ease;}
+.jjfa-box-c-l{ display:block; width:70px; height:70px; overflow:hidden; position:relative; margin:40px 10px 0 20px;}
+.jjfa-box-c-r{ width:390px; margin:30px 0 0 0; overflow:hidden; position: relative;}
+.jjfa-box-c-r h4{ font-size:22px; color:#333333; line-height:22px; margin:0 0 12px 0;}
+.jjfa-box-c-r strong{ display:block; width:24px; height:2px; background:#03a1e9; margin-bottom:10px;}
+.jjfa-box-c-r p{ font-size:16px; color:#999; line-height:20px; margin:0 0 20px 0;}
+.jjfa-box-c-r span{ display:block; width:88px; height:26px; text-align:center; line-height:26px; border:1px solid #03a1e9; border-radius:3px; cursor:pointer; color:#03a1e9; transition:all 0.3s ease;}
+.jjfa-box-c-r span:hover{ color:#fff; background:#03a1e9;}
